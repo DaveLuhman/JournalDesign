@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T06:22:55.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.1" etag="lEPYauddApYKnulWEyZm" type="github">
+  <diagram name="Page-1" id="Kijl4Zc-2Xo_PdkOeu3F">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="2">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Login" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Journal APP-&gt;Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="5">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Backend--&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="7">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="9">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="11">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Write Entry" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="14">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="16">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Journal APP-&gt;Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="18">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Backend--&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="20">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="22">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="24">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="View Entry" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="27">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="29">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Journal APP-&gt;Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="31">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="Backend--&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="33">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="35">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="User-&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="37">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="Logout" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="Journal APP-&gt;Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="40">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="Backend--&gt;Journal APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="42">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Journal APP--&gt;User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="44">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46" style="endArrow=block;strokeWidth=3;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="190" as="sourcePoint" />
+            <mxPoint x="4150" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" value="User Journey for Journal APP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" width="336" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
